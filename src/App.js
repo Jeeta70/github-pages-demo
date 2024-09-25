@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with me on dev branch
+          Learn React with me on dev branch delete yaml
         </a>
       </header>
     </div>
